@@ -1,1 +1,5 @@
 Aqui actualiare los codigos de Git:
+
+git add .                       ---> Anade las modificaciones
+git commit -m "Mensaje"         ---> Pone un mensaje a la actualizacion
+git push                        ---> Carga el cambio
